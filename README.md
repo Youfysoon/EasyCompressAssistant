@@ -1,6 +1,6 @@
 # Easy Compress Assistant
 
-Easy Compress Assistant is a easy-to-use utility used for compressing and depressing files.
+Easy Compress Assistant is a easy-to-use utility used for compressing and decompressing files.
 
 中文版本在英文版本下方。
 
